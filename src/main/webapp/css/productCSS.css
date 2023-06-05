@@ -1,0 +1,30 @@
+.firstBlock {
+	width: 400px;
+	height: 375px;
+	margin: 0 auto;
+	/* background-color: rgb(37, 247, 37); */
+}
+
+.firstBlock h1 {
+	text-align: center;
+	color: green;
+}
+
+.createProduct {
+	margin: 0 auto;
+	/* background-color: rgb(241, 188, 44); */
+	
+}
+
+.container-fluid {
+    margin-top: 15px !important;
+}
+
+.styleButton {
+	border: 0 !important;
+	outline: 0 !important;
+} 
+
+.form-group {
+	width: 380px;
+}
